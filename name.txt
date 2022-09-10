@@ -11,5 +11,21 @@ My name is Karely Partida.
 > Create a Repository (named same or similar to local project)
 > Go back to the local repo, add remote, change master branch to main, push commit historty
     >> (copied commands from github, paste into terminal) 
-> 
-> 
+> git push -u origin main (whatever the main branch was named) ALSO origin main will also be up stream branch which is the main branch in the repository you created.
+
+
+
+- Working Repository:
+  --Local 
+ > If this is a new feature:
+ > git checkout -b <branch-name>
+ > Development
+ > git add .
+ > git commit -m "explicit but short message explaining changes" Exam: "adds workflow. changes name. formats name.txt"
+ > git push -u <origin or remote> <branch-name> (after the second push there's no need to add "-u origin <branch-name>")
+
+
+
+
+** Helpful
+> git status
