@@ -1,1 +1,15 @@
 My name is Karely Partida.
+
+** Workflow **
+- New repo:
+> git init
+> Worked on our changes
+> git add
+> git commit -m "inital commit" OR "first commit"
+-- Remote (Github)
+> Login
+> Create a Repository (named same or similar to local project)
+> Go back to the local repo, add remote, change master branch to main, push commit historty
+    >> (copied commands from github, paste into terminal) 
+> 
+> 
