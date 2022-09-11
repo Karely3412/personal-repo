@@ -17,14 +17,16 @@ My name is Karely Partida.
 
 - Working Repository:
   --Local 
- > If this is a new feature:
+> If this is a new feature:
  > git checkout -b <branch-name>
  > Development
  > git add .
  > git commit -m "explicit but short message explaining changes" Exam: "adds workflow. changes name. formats name.txt"
  > git push -u <origin or remote> <branch-name> (after the second push there's no need to add "-u origin <branch-name>")
-
-
+> Current feature:
+> git add .
+> git commit -m "<message>"
+> git push
 
 
 ** Helpful
